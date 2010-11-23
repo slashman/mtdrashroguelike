@@ -1,0 +1,17 @@
+Evasion Mirage
+
+Alternate directions along an axis
+
+Evasion is increased by half of its remainder to 100%
+
+ #########   #########   #########   
+ #.......#   #.......#   #.......#   
+ #.......#   #..@....#   #.......#   
+ #.@....a#   #......a#   #...@..a#   
+ #.......#   #.......#   #.......#   
+ #########   #########   #########   
+        
+         UpLeft     Down Left, Mirage activated
+
+When mirage is activated you will see the 'Dodging' indicator 
+on the status line

@@ -1,0 +1,507 @@
+Ultima 1- The First Age of Darkness
+Technical File- Revision 2 5/2/95
+Written by: Plaid Dragon (joepran@telerama.lm.com)
+
+The newest version of this file is always availible from my homepage:
+http://www.lm.com/~joepran/ultima.html
+
+Note from the author- This is one of three hint files for Ultima 1. This file 
+is called the tech file and should be U1TECH.TXT. The other two are the 
+walkthrough and the hint files, U1WALK.TXT and U1HINT.TXT. If you are stuck, 
+I highly recommend the hint file first as it deals with general Q&A. If you 
+are still stuck (besides sending whatever is your question to Plaid Dragon for 
+possible addition to the respective files), you should consult the 
+walkthrough. This file is where you would look for general info, such as shop 
+lists and prices and other such information. Oh yea, and I stuck the credits 
+and revision history here too. Nyah.
+
+Another note- This document will be in a state of flux until every detail is
+hammered down (Rabbit Ears). I will alphabetize the towns and caves later. The 
+missing section is incomplete as I'm not sure I've gotten everything. I'll add 
+it in a day or so.
+
+Table of Contents
+1 Creating a character
+1.1 The Races
+1.3 The Sexes
+1.3 The Professions
+2 Getting along in the world
+2.1 Commands
+2.2 Status Screen
+2.3 Status Bar
+2.4 Coinage
+3 The Lands of Lord British
+3.1 Castles
+3.2 Towns
+3.3 Caves
+3.4 Other Sights to See
+4 The Lands of the Feudal Lords
+4.1 Castles
+4.2 Towns
+4.3 Caves
+4.4 Other Sights to See
+5 The Lands of the Dark Unknown
+5.1 Castles
+5.2 Towns
+5.3 Caves
+5.4 Other Sights to See
+6 The Lands of Danger and Despair
+6.1 Castles
+6.2 Towns
+6.3 Caves
+6.4 Other Sights to See
+7 Quest Reference
+8 Item Reference
+8.1 Weapons
+8.2 Armor
+8.3 Spells
+8.4 Transportation
+8.4.1 Land/Sea Transportation
+8.4.2 Space Transportation
+8.4.3 Other Transportation
+8.5 Other
+9 Credits
+
+Section 1: Creating a Character
+1.1 The Races
+
+In Ultima 1, You have the choice of 4 races. These are human, dwarf, elf, and bobbit. In later games,
+the Bobbit may be called Hobbit. This may be due to copyright violations or something.
+
+Bobbit- Highrer Strength and Wisdom. +5, +10 
+Dwarf- Higher Strength. +5
+Elf- Higher Intelligene. +5
+Human- Higher Intelligence. +5
+
+1.2 The Sexes
+
+In Ultima 1, you can be either male or female. What the difference is, I don't know. Another mail 
+me if you know. I can't seem to find a difference.
+
+Female- Possible higher intelligence?
+Male- Possible higher strength? 
+
+1.3 The Professions
+
+In Ultima 1, you can be one of 4 professions. 
+
+Cleric- Higher Wizdom. +10
+Fighter- Higher Strength and Agility. +10, +10
+Thief- Higher Agility. +10
+Wizard- Highrer Intelligence. +10
+
+Section 2: Getting along in the world
+2.1 The Commands
+
+The following is a list of all of the commands and what they do:
+
+A Attack- Attacks an enemy using readied weapon. Same as numeric keypad
+B Board- Board a craft such as a ship
+C Cast- Cast the currently readied spell
+D Drop- ???
+E Enter- Enters a town, cave, or castle
+F Fire- Fire a weapon (like the airship's laser)
+G Get- Gets an item (such as Mondain's Gem)
+H Hyperjump- Warp in space to sector that you are heading to (if in forward view)
+I Inform and Search- Tell wher you are or what you are on
+K Climb- Climb up or down a ladder in a dungeon
+N Noise- Turn walking noise either off or on
+O Open- Open a coffin in a dungeon
+Q Quit- Saves game (does NOT actually quit)
+R Ready- Ready a weapon, armor, or spell
+S Steal- Steal from a castle's stores
+T Transact- Talk to king or shopkeeper
+U Unlock- Unlock a door in a castle (if you have the key)
+V View- Change view in the space ship
+X Exit- Exit a craft
+Z Status- Get status information
+
+2.2 Status Screen
+
+The status screen can be reached by pressing Z. In each case except hit points, the maximum is 99
+
+Agility- How agile you are. Determines hit success, blocking success, and stealing success.
+Charisma- How much charisma you have. Determines how much you can sell things for.
+Hit Points- How many hit points you have left
+Intelligence- How smart you are. Determines spell power and prices of goods.
+Stamina- How much stamina you have. Determines how much damage and beer you can take.
+Strength- How strong you are. Determines fight damage.
+Wisdom- How much wisdom you have. Determines spell success and spell cost.
+
+2.3 Status Bar
+
+The status bar is in the lower right corner of the screen. In all cases, the maximum is 9999.
+
+Coin- Total amount of money that you have
+Exp.- How much experience you have (Levels every 1000 pts)
+Food- How much food you have left (0=dead)
+Hits- Same as hit points in status screen
+
+2.4 Coinage
+
+This is a convient list as to how much each coin is worth. Totally unnecessary as the total
+number of coins are on the screen at all times.
+
+Gold Coin- 100
+Silver Pieces- 10
+Copper Pence- 1
+
+Section 3: The Lands of Lord British
+3.1 Castles
+
+Castle of Lord British
+Quest: Find Grave of the Lost Soul
+
+Castle of the Lost King
+Quest: Kill a Gelatinous Cube
+
+3.2 Towns
+
+City of Britian
+Weapons: "The Weapon Shop of Lord Eldric D'Charbonneux"
+     Mace - 8
+     Rope & Spikes - 20
+     Great Sword - 38
+     Amulet - 65
+     Staff - 98
+Armor: "The Armor Shop of Lord Eldric D'Charbonneux"
+     Leather Armor - 46
+     Chain Mail - 92
+     Plate Mail - 138
+     Vacuum Suit - 184
+     Reflect Suit - 230
+Transportation: "Scooter's Super Duper Transport, Inc."
+     Horse - 37
+     Cart - 148
+     Raft - 333
+     Frigate - 592
+     Aircar - 925
+     Shuttle - 1332
+Magic: "Mad Chad's Magic Shoppe"
+     Open - 5
+     Magic Missile - 15
+     Ladder Down - 25
+Food: "Li'l Karelia's Finnish Grocery"
+     Food - 5 for 10
+Pub: "Pub de Varg"
+     Drink - 1
+
+City of Faun
+Weapons: "The Razor's Edge"
+     Mace - 8 
+     Rope & Spikes - 20
+     Great Sword - 38
+     Amulet - 65
+     Staff - 98
+Armor: "The Iron Fist"
+     Leather Armor - 46
+     Chain Mail - 92
+     Plate Mail - 138
+     Vacuum Suit - 184
+     Reflect Suit - 230
+Magic: "Words of Power"
+     Open - 5
+     Magic Missile - 15
+     Ladder Down - 25
+Pub: "Dr. Cat's Lair"
+
+City of Grey
+Weapons: "Cold Steel Creations"
+     Dagger - 5
+     Axe - 13
+     Sword - 28
+     Bow & Arrows - 50
+     Wand - 80
+Armor: "Custom Armor Works"
+     Leather Armor - 46
+     Chain Mail - 92
+     Plate Mail - 138
+     Vacuum Suit - 184
+     Reflect Suit - 230
+Transportation: "Sly Sam's Transportation Specialists"
+     Horse - 37
+     Cart - 148
+     Raft - 333
+     Frigate - 592
+     Aircar - 925
+     Shuttle - 1332
+Magic "The Unleashed Spell"
+     Unlock - 10
+     Ladder Up - 30
+Food: "Exploration Provisioners"
+Pub: "Dav's House-o-Suds"
+
+City of Montor
+Weapons: "The Bloody Blade"
+     Mace - 8 
+     Rope & Spikes - 20
+     Great Sword - 38
+     Amulet - 65
+     Staff - 98
+Food: "Fresh Food Marketplace"
+
+City of Moon
+Weapons: "The Tempered Steel"
+     Dagger- 5
+     Axe - 13
+     Sword - 28
+     Bow & Arrows - 50
+     Wand - 80
+Armor: "Max's Armoury"
+     Leather Armor - 46
+     Chain Mail - 92
+     Plate Mail - 138
+     Vacuum Suit - 184
+     Reflect Suit - 230
+Magic: "Mystic Mylinda's"
+     Unlock - 10
+     Ladder Up- 30
+Food: "Adventurer's Suppily Post"
+
+City of Paws
+Weapons: "Cold Steel Creations"
+     Dagger - 5
+     Axe - 13
+     Sword - 28
+     Bow & Arrows - 50
+     Wand - 80
+Armor: "Hammer -n- Anvil"
+     Leather Armor - 46
+     Chain Mail - 92
+     Plate Mail - 138
+     Vacuum Suit - 184
+     Reflect Suit - 230
+Transportation: "Quality Transport Ltd."
+     Horse - 37
+     Cart - 148
+Magic: "Psychic Sam's Magic Emporium"
+     Unlock - 10
+     Ladder Up- 30
+Food: "Brown Bag"
+     Food - 5 for 10
+Pub: "Teaser's House"
+     Drink - 1
+          
+City of Tune
+Weapons: "Weapontry Supply"
+     Mace - 8 
+     Rope & Spikes - 20
+     Great Sword - 38
+     Amulet - 65
+     Staff - 98
+Food: "Fastest Freshest Food Market"
+     Food: 5 for 10
+Pub: "Kurstable's Corner"
+     Drink - 1
+
+City of Yew
+Weapons: "The Duelo Shop"
+     Dagger - 5
+     Axe - 13
+     Sword - 28
+     Bow & Arrows - 50
+     Wand - 80
+Armor: "Defense Specialities Unlimited"
+     Leather Armor - 46
+     Chain Mail - 92
+     Plate Mail - 138
+     Vacuum Suit - 184
+     Reflect Suit - 230
+Transoprtation: "O.K. New and Used Transport"
+     Horse - 37
+     Cart - 148
+     Raft - 333
+     Frigate - 592
+     Aircar - 925
+     Shuttle - 1332
+Food: "Rations Unlimited"
+     5 for 10
+Pub: "Mary's Midway"
+     Drink - 1
+          
+3.3 Caves
+
+All caves have 10 levels. 
+
+Dungeon of Perinia
+Dungeon of Montor
+Mines of Mt. Drash
+Mondain's Gate to Hell
+Unholy Hole
+
+3.4 Other Sights to See
+
+Pillars of Protection - Agility
+Tower of Knowledge - Intelligence
+
+Section 4: Lands of the Feudal Lords
+4.1 Castles
+
+Castle Rondorin
+Quest: Kill a Carrion Creeper- Green Gem
+
+Castle Brataria
+Quest: Find the Southern Sign Post
+
+4.2 Towns
+
+ 
+City of Wolf - This city mirrors Tune.
+City of Owen - This city mirrors Paws.
+City of John - This city mirrors Montor.
+City of Linda - This city is a mirror of Moon.
+City of the Snake - This city mirrors Grey.
+City of Gerry - This city mirrors Yew.
+City of Arnold - This city mirrors Britain.
+City of Helen - This city mirrors Faun.
+
+4.3 Caves
+
+Advari's Hole
+Gorgon Hole
+Horror of the Harpies II
+Labrinth
+Savage Place
+Scorpion Hole
+Where Hercules Died
+
+4.4 Other Sights to See
+
+The Pillar of Ozymandias- Wisdom
+The Pillars of the Argonauts- Weapons
+
+Section 5: Lands of the Dark Unknown
+5.1 Castles
+
+Castle of the Black Dragon
+Quest: Kill a Lich
+
+Castle of Olympus
+Quest: Find Pillar of Ozymandias
+
+5.2 Towns
+
+City of Ponder - This city mirrors Yew
+City of Stout - This city mirrors Faun
+City of Imagiation - This city mirrors Montor
+City of Wealth - This city mirrors Tune
+City of Clear Lagoon - This city mirrors Moon
+City of Poor - This city mirrors Grey
+City of Nassau - This city mirrors Britain
+
+5.3 Caves
+
+Guild of Death
+Slow Death
+The End...
+Tramp of Doom
+Troll's Hole
+Viper's Pit
+Viper's Pit II
+
+5.4 Other Sights to See
+
+The Sign Post
+The Southern Sign Post- Charisma
+
+Section 6: The Lands of Danger and Despair
+6.1 Castles
+
+Castle of Shamino
+Quest: Kill a Balron
+
+Castle of the White Dragon
+Quest: Find Tower of Knowledge
+
+6.2 Towns
+
+City of the Brother - This city mirrors Yew
+City of Dextron - This city mirrors Moon
+City of Bulldozer - This city mirrors Montor
+City of Gorlab - This city mirrors Britain
+ 
+6.3 Caves
+
+Dead Man's Walk
+Dungeon of Doom
+Hole to Hades
+Morbid Adventure
+Skull Smasher
+Spine Breaker
+
+6.4 Other Sights to See
+
+Eastern Sign Post - nothing
+Grave of the Lost Soul - I forgot :(
+
+Section 7: Quest Reference
+
+In alphabetical order:
+
+Black Dragon - Kill Lich
+Brataria - Southern Sign Post
+Lord British - Grave of lost soul
+Lost King - Kill Gelatinous Cube
+Olympus - Pillar of Ozymandias
+Rondorin - Kill Carrion Creeper
+Shamino - Kill Balron
+White Dragon - Tower of Knowledge
+
+Section 8: Item Reference
+8.1 Weapons
+
+A Hands- No weapon at all! Close combat.
+B Dagger-Close combat.
+C Mace- Close combat.
+D Axe- Close combat.
+E Rope & Spikes- ?? Possibly increases stealing/agility?
+F Sword- Close combat.
+G Greatsword- Close combat.
+H Bow & Arrow- Missile weapon.
+I Amulet- ?? Possible increases intelligence/wisdom/spell damage?
+J Wand- ?? Possible increases intelligence/wisdom/spell damage?
+K Staff- Close combat. Possible increases intelligence/wisdom/spell damage?
+L Triangle- ?? Possible increases intelligence/wisdom/spell damage?
+M Pistol- Missile weapon.
+N Lightsword- Close combat.
+O Phaser- Missile weapon.
+P Blaster- Missile weapon.
+
+8.2 Armor
+A Skin- No armor at all!
+B Leather
+C Chain Mail
+D Plate Mail
+E Vacuum Suit- Use to dock at starports.
+F Reflect Suit
+
+8.3 Spells
+**Sorry, this section under construction**
+
+8.4 Transportation
+** Sorry, this section under construction**
+
+8.5 Other
+**Sorry, this section under construction**
+
+Section 9: Credits
+
+Due credit must go to the floowing people:
+
+Dragon Name     Email Address                   Reason
+-----------------------------------------------------------------
+Fallible Dragon Fallible_Dragon@udic.why.com   Providing Site
+Rolf Dragon     jmbeck@telerama.lm.com         First revisions
+
+I seem to have misplaced a name or three from this revision, if
+you helped, email me and I'll add your name here.
+
+Section 10: Revision History
+
+Revisions:
+4/30/95         Document Began
+5/02/95         Spell Check OFFICIAL ANNOUNCEMENT
+7/10/95         Items section added. Sorted things. Many changes.
+
+**No jesters were harmed during the writing of this document**
+

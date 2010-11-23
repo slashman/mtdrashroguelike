@@ -1,0 +1,567 @@
+
+
+
+
+
+
+
+
+
+                     Mount Drash: The Roguelike
+                     --------------------------
+                                   Version 0.32
+
+
+
+
+
+			2006-2007 ~ Slash
+                        
+
+
+
+
+
+Table of Contents
+-----------------
+
+Introduction
+The History So Far...
+Community
+Running the Game
+How to play
+Advancements
+   The circles of magic
+    Null Circle
+    First Circle of Magic
+    Second Circle of Magic
+    Third Circle of Magic 
+  Combat Maneuvers
+  Stats Advancements
+Character Attributes
+Commands and Actions
+Contact me
+Thanks
+Credits
+Acknowledgements
+
+
+
+Introduction 
+------------- 
+
+DrashRL is a roguelike game in which you play the role of the avatar 
+on his quest to escape the deadly arena of the garrintroots. On your 
+quest you will face horrible monsters and find magic relics and 
+artifacts.
+
+The History So Far...
+----------------------
+
+The battle with evil wizard Mondain the Wicked was long and hard; the 
+final showdown in the bounds of time and space barely left you 
+energies to keep on foot. Still, the gem was shattered, and peace 
+returned to Sorsaria. 
+
+With your vanishing breath, you headed to the Time Machine... the time 
+to rest was close, you were going back home, having fulfilled the
+strange call which brought you to this world of magic and sorcery... 
+
+You boarded the machine and activated the four crystals; the ancient 
+device turned on, the door closed shut, and the feeling of being 
+stretched and swallowed inside the current of time and space got into 
+yourself...
+
+Then, all of a sudden, a green flash lit all the cockpit... a wicked 
+smile boomed around and the crystals shattered; the device seemed to 
+crack appart. The last thing you saw was a relieving, it was Sorsaria, 
+high above the clouds, not your place but better than drifting away 
+forever in the void. 
+
+You passed out...
+
+It has been a month since that happened. Now you are imprisoned inside
+a cell, not medieval, not modern, an alien, strange looking cell. 
+
+Finally, today, you start to realize what this was all about. 
+
+Your cell door opens and in the floor lies a gauntlet with room for 
+two gems. 
+
+You see yourself for a last time in a giant screen, you stare at all
+sort of strange devices, installed all around the place.
+
+Then the voice... coming from all places and no place... 
+
+'Ladies and Gentlemen! The champion of sorsaria, vanquisher of Mondain 
+the wicked! I give you the Stranger from another world! Fight and win 
+your freedom in this, the Garrintrots arena!'
+
+You hear a choir of spectators, you are the game, your blood will 
+stain the floor and they will laugh, your sword will cut through 
+monsters and they will cellebrate, may be they will watch you die, and 
+another one will come. This is what fate had for you, there is no way 
+back.
+
+
+Community
+---------
+This game has an active web community at http://www.santiagoz.com/web!
+
+Thereby you will meet people, struggling to escape the prison in all
+kind of wicked ways, and share your comments about the game!
+
+You can always find the latest version of the game there as well.
+ 
+Running the Game
+----------------
+In order to run this game you need to install a Java Virtual Machine.
+
+Getting a virtual machine running is simple and won't take over your 
+computer resources or anything. 
+
+To get your virtual machine simply browse to:
+
+www.java.com/getjava/
+
+The game has been tested and runs fully in:
+
+* Windows XP
+* Windows 2000
+* Linux
+* MacOS X
+
+Once your virtual machine is installed you can run the game using
+any of the provided batch files; each one uses a different UI, choose
+the one you like the most!
+
+drashrl032-console.bat : ASCII console roguelike UI
+drashrl032-cga.bat: Uses 32x32 tiles in CGA (4 Colors) Retro Ultima Tileset
+drashrl032-ega.bat: Uses 32x32 tiles in EGA (16 Colors) Retro Ultima Tileset
+drashrl032-vga.bat: Uses 32x32 tiles in VGA (256 Colors) Retro Ultima Tileset
+drashrl032-vga16.bat: Uses 16x16 tiles in VGA (256 Colors) Retro Ultima Tileset
+drashrl032-dragon: Uses 32x32 tiles, David Gervais Graphic Roguelike Tileset
+
+How to play
+------------
+Your goal is to find the exit on each level marked as a teleportation 
+portal. You may need to find some telegems first in order to use it 
+though, it depends on what level you are on.
+
+Each two levels you will get to pick an advancement, which will shape 
+your character defining his stats and skills.
+
+
+Advancements
+-------------
+
+ THE CIRCLES OF MAGIC
+---------------------
+Each advancement on a circle of magic will grant you a small mana 
+capacity increment as well as access to each time more powerful spells.
+
+-----------------------------------------------------------------------
+
+ NULL CIRCLE
+
+      Prayer (1):
+
+Use it when you are endangered to request aid from the heavens. 
+Remember, you must earn this aid by diving deeper into the arena, else 
+you may be in a worse situation than you originally were.
+
+      Magic Missile (2)
+
+A basic attack spell, which is very useful to dispatch enemies before 
+they come into attack range. Materializes a small bolt of energy.
+
+-----------------------------------------------------------------------
+
+ FIRST CIRCLE
+
+      Sleep (5)
+This spells puts an enemy into slumber for some turns, allowing 
+you to escape difficult situations
+
+      Recover (15)
+When you are injured or close to death, cast this spell and your 
+life will be slightly restored
+
+-----------------------------------------------------------------------
+
+SECOND CIRCLE
+
+      Light Missile (3)
+Shoots a magic missile of light, which is stronger and quicker 
+than a magic missile
+ 
+      Cure (10)
+This enchantment removes poison from your veins
+
+      Create Barrier (5)
+When you are being chased by enemies, summon this spell to lift 
+a protective physical barrier between you and them.
+
+      Destroy Barrier (5)
+If you need to undo a magical barrier, or you find one on your 
+way, this spell completely dispels it.
+
+      Light (10)
+Creates a small source of magical light for a time
+
+      Blink (10)
+Provides a very useful way of self teletransportation
+
+-----------------------------------------------------------------------
+
+THIRD CIRCLE
+
+      Fire Missile (4)
+Shoots a fiery ball which is a bit slow but causes great damage
+
+      Fire barrage (5)
+Projects a hot wind in a direction, which may hit multiple enemies
+
+      Protection (15)
+Reduces taken damage by one third for some time
+
+      Blast wall (15)
+Destroys a wall, useful to escape from danger
+
+-----------------------------------------------------------------------
+
+CIRCLES BEYOND
+
+Little is known about circles beyond these three, it is said you need
+a strong soul to understand these mystical enchantments
+
+ Combat Maneuvers
+-----------------
+Several different combat techniques can be learned on the arena
+
+-----------------------------------------------------------------------
+
+      COMBAT CHARGE
+
+Run in a straight line for two steps and then jump into an enemy.
+
+Enemy evasion is reduced to a third
+Evasion breaking is double
+Damage is tripled
+Walking cost is reduced by 10
+
+ #########   #########   #########   #########  
+ #.......#   #.......#   #.......#   #.......#
+ #.......#   #.......#   #.......#   #.......#
+ #.@..m..#   #..@.m..#   #...@m..#   #....@..#
+ #.......#   #.......#   #.......#   #.......#
+ #########   #########   #########   #########  
+        
+         Right       Right       CHARGE!
+
+To perform a chance you need to engage into Brave tactics.
+
+When charging you will see the 'Charge' indicator on the status line. 
+
+You can charge into any of the three positions ahead.
+
+-----------------------------------------------------------------------
+
+      WALL CORNER
+
+Attack an enemy with a solid object behind him
+
+Enemy evasion is reduced to a half
+Damage is doubled
+
+
+ #########   #########
+ #.......#   #.......#
+ #.#.....#   #.#.....#
+ #.#m@...#   #.#%@...#
+ #.......#   #.......#
+ #########   #########
+  Corner Attack left!  
+
+-----------------------------------------------------------------------
+
+      EVASION MIRAGE
+
+Alternate directions along an axis
+
+Evasion is increased by half of its remainder to 100%
+
+ #########   #########   #########   
+ #.......#   #.......#   #.......#   
+ #.......#   #..@....#   #.......#   
+ #.@....a#   #......a#   #...@..a#   
+ #.......#   #.......#   #.......#   
+ #########   #########   #########   
+        
+         UpLeft     Down Left, Mirage activated
+
+When mirage is activated you will see the 'Dodging' indicator on the 
+status line
+
+-----------------------------------------------------------------------
+
+      PIERCE
+
+Attack with a long weapon in a direction to reach more than one enemy
+
+ #########   ######### 
+ #.......#   #.......# 
+ #.......#   #.......# 
+ #.@mm...#   #.@%%...# 
+ #.......#   #.......# 
+ #########   ######### 
+        
+         Die!     
+
+
+-----------------------------------------------------------------------
+
+      CINETIC BLOW
+
+Attack in a direction and then the opposite one
+
+Enemy evasion is reduced to a half
+Damage is increased by a half
+
+
+ #########   #########   #########   #########  
+ #.......#   #.......#   #.......#   #.......#
+ #.......#   #.......#   #.......#   #.......#
+ #..m@m..#   #..m@m..#   #..%@m..#   #..%@%..#
+ #.......#   #.......#   #.......#   #.......#
+ #########   #########   #########   #########  
+    Attack Right           Cinetic attack right! 
+              Cinetic attack left!
+
+-----------------------------------------------------------------------
+
+      DRASHBACK RAGE
+
+Hit several enemies consecutively to activate a combat rage
+
+Damage is increased by a half
+
+-----------------------------------------------------------------------
+
+      HALF-SLASH
+
+Move through an enemy to cut him
+
+ #########   #########   #########
+ #.......#   #.......#   #.......#
+ #.......#   #..@....#   #.......#
+ #.@m....#   #..m....#   #..%@...#
+ #.......#   #.......#   #.......#
+ #########   #########   #########
+        
+       Up-Right     Down-Right     
+
+-----------------------------------------------------------------------
+
+      COUNTER
+
+Return your enemy blows
+
+-----------------------------------------------------------------------
+
+      POWER BLOW
+
+Store energy and unleash it on the next turn for an ultra strong blow
+
+Enemy evasion is reduced to a half
+Damage is increased by a half
+
+-----------------------------------------------------------------------
+
+      COMBAT SLASH
+
+Move through two enemies to cut them both.
+
+ #########   #########   #########
+ #.......#   #.......#   #.......#
+ #.m.m...#   #.%@m...#   #.%.%...#
+ #.@m....#   #..m....#   #..%@...#
+ #.......#   #.......#   #.......#
+ #########   #########   #########
+        
+       Up-Right     Down-Right     
+
+
+ Stats advancements
+-------------------
+
+The avatar can choose to advance on his discipline, soul or temper 
+to increase his capacities.
+
+
+Character Attributes
+--------------------
+
+The abilities of the avatar are resumed in a series of attributes, 
+which are modified along the game as the player advances or gets 
+access to magic relics.
+
+
+* Integrity
+
+Determines how much damage the character may take before dying.
+
+The integrity points are reduced everytime you character doesn't
+dodge an attack and the armor doesn't receive the blow.
+
+You can recover them via magic spells or potions.
+
+* Break Points
+
+Determines the capacity of the player to dodge blows.
+
+Each time you sucesfully evade a blow, this counter is reduced
+acording to how hard it was to dodge it. If this counter reaches 0
+all blows will hit the player or its armor.
+
+Break points are regenerated automatically or via spells
+
+* Mana
+
+Determines the magic capabilities of the player.
+
+Each time a spell is cast an ammount of mana is reduced, if the
+current mana is lower than the requirements of the spell, it
+cannot be cast.
+
+Mana can be recovered via potions.
+
+* Carrying
+
+Capacity of carrying items, you can have this number of items along
+with you.
+
+* Attack
+
+Bonus to damage enemies when performing physical attacks
+
+* Break
+
+Bonus to reduce the break points of the enemies when they evade an attack
+
+* Soul
+
+Bonus to the effects of magic spells
+
+* Evasion
+
+Chance to evade a monster attack if the player has break points
+
+* Sight
+
+Range of vision for the player, can be modified via spells, items or 
+accesories
+
+* Speed
+
+Movement speed, determines how quick you can move.
+
+This stat may be anything from -50 to 50, where 0 is "normal" speed
+and possitive numbers are quicker than negative.
+
+Speed can be modified via advancements or magic spells.
+
+* Combat
+
+Quickness on combat, reduces how fast you can attack
+
+This stat may be anything from -50 to 50, where 0 is "normal" speed
+and possitive numbers are quicker than negative.
+
+Combat can be modified via advancements or magic spells.
+
+
+* Magic
+
+Prowess on magic, reduces the cost of your spellcasting.
+
+This stat may be anything from -50 to 50, where 0 is "normal" speed
+and possitive numbers are quicker than negative.
+
+Magic spellcasting can be modified via advancements
+
+
+ Commands and Actions
+--------------------- 
+
+Actions
+
+a Attack: Uses a weapon in a given direction
+d Drop: Discards an item
+e Equip: Wears a weapon or armor
+f Fire: Targets a weapon on a given position
+g Get: Picks up an item
+r Reload: Reloads the equiped weapon
+R Ready: Readies a secondary weapon
+s Skills: Shows the skill list
+u Use: Uses an Item
+U Unequip: Take off an item
+t Tactics: Switched tactics from normal to brave
+x Switch: Switched primary and secondary weapon
+		
+Commands
+
+? Help: Shows Help (this screen)
+c Character: Shows the character stats
+D Dump: Saves character info to a file
+i Inventory: Shows the inventory
+l Look: Identifies map symbols and monsters
+m Messages: Shows the message history
+M Map: Shows the level map in multiple screens
+T Music: Turns music on/off
+Q Quit: Exits game
+S Save: Saves game
+		
+
+ Contact me
+-----------
+All your suggestions and bug reports are welcome via the official website 
+(http://www.santiagoz.com/web) or my email (java.koder@gmail.com)
+
+ Thanks
+-------
+* Adral, Blade, com2Kid, Icey, Meldokios, Valkeera, : Feedback/Bug Reports
+
+ Credits
+--------
+* Björn Bergström: Recursive Shadowcasting LOS algorithm
+* David Gervais: Tiles for the DragonUI tileset
+* Devin Cook: Commodore 64 Font
+* Micro Dragon: Avatar Font
+
+ Disclaimer
+-----------
+
+This game is Freeware, which means you are encouraged to obtain it, try 
+it and share it with your friends or enemies. Distribution via Cover 
+CDs, inclusion on websites other than the official and other means of
+non-official distribution, including mirroring, must be asked via email 
+to the author whom will probably agree and just wants to keep track on 
+where the game is available. 
+
+THERE IS NO WARRANTY OF ANY KIND. I TAKE NO RESPONSIBILTY FOR ANY DAMAGE
+CAUSED BY THIS SOFTWARE. USE IT AT YOUR OWN RISK.
+
+Midi and Image files including in this standard distribution are property
+of Originc Inc. Their usage in this free public production is not supposed 
+to challenge the rights of Origin Inc. nor Electronic Arts
+
+
+ Acknowledgements
+-----------------
+* MinML: Minimalist XML parser by The Wilson Partnership
+* JCurses: JavaCurses library
+* JLayer: JavaLayer MP3
+* YGuard: Java Obfuscator
+
+0.32 Manual - Feb 12/07

@@ -1,0 +1,412 @@
+Ultima 1 guide
+by Spoony
+Version 1.0 
+Copyright © 2004 Spoony
+
+-This guide may not be reproduced in any form, partially or wholly, without written permission of the author.
+-This guide, if reproduced, must remain in UNALTERED .txt format, and may not appear with any type of 
+advertisement, including but not limited to ad banners, pop-up winows, within frames displaying 
+advertisements, or in any kind of publication.
+-I am not to be held responsible for damages resulting from this file or its contents.
+-The most up-to-date version of this guide is available at http://killass.lardpirates.com. Check this version 
+of the file before e-mailing with questions or comments.
+-By making use of this file or its contents, you agree to the terms stated in the above disclaimer.
+-Please do not e-mail me about subjects not specifically covered by the FAQ itself; if the guide covers 
+multiplayer strategy, for example, I probably won't be able to help you on the single-player missions.
+
+This guide covers the remake of Ultima 1 that appears on the Ultima Collection, so there may be some 
+differences from other versions of the game.
+
+---
+Helpful links
+---
+
+Ultima I tends to run too quickly on newer computers, making it nearly unplayable.  Fortunately, there is a 
+program called Moslo that fixes this issue, it is downloadable from http://www.hpaa.com/moslo/.
+
+There is a bug in the Ultima Collection version of the game that can cause the screen to 
+go black-and-white or garble on certain computers.  A patch for this exists 
+at http://www.ultimainfo.net/Downloads/U1patch.zip
+
+---
+Character Creation
+---
+
+Your character begins with ten points in each of their stats, and you will get another 30 points to 
+distribute among them.  You cannot start with more than 25 in any one stat.
+
+Gender
+
+Gender does not affect your character's stats in Ultima 1, so choose whichever.
+
+Race bonuses
+
+Human  - +5  Intelligence
+Elf    - +5  Agility
+Dwarf  - +5  Strength
+Bobbit - +10 Wisdom, -5 Strength
+
+Class bonuses
+
+Fighter - +10 Strength, +10 Agility
+Cleric  - +10 Wisdom
+Wizard  - +10 Intelligence
+Thief   - +10 Agility
+
+Stats
+
+Strength - Determines damage done by your attacks
+Agility - Determines attack accuracy and attack evasion, as well as stealing ability
+Stamina - Reduces damage from attacks
+Charisma - Lowers selling prices in shops
+Wisdom - Increases the reliability of offensive spells and lowers spell prices
+Intelligence - Lowers buying prices of vehicles, weapons and armor in shops and increases the damage 
+offensive spells inflict
+
+Overview
+
+The Fighter is far and away the best class choice, as you get a lot of points in two important stats with no 
+downside.  However, the advantage to using a Wizard is that you get some spells that no other class can use.  
+Thieves and Clerics are largely useless.
+
+---
+Keyboard Commands
+---
+
+Press the first letter of the description to perform that action.
+
+A ttack with a weapon.  You must specify a direction to attack in if you are on the overworld map.
+
+B oard a horse, frigate, or other vehicle.
+
+C ast a spell.  You must first memorize the spell with the Ready command to use it.
+
+D rop an unwanted item while in a castle or town.  You cannot get the item back if you drop it, so be sure 
+you want to get rid of it.
+
+E nter a town, castle, signpost, or dungeon.
+
+F ire a vehicle's weapons.  You must specify which direction to fire in.
+
+G et an adjacent object.
+
+H yperjump to another sector when in your spaceship.
+
+I nform and Search.  This lets you know of the name of a landmark you are about to enter, the continent you 
+are currently on, and brings up the sector map when you are in space.  Finally, it will allow you to search 
+for hidden doors if you are in a dungeon.
+
+K limb up or down a ladder in dungeons.
+
+N oise on or off.  Toggles in-game sound.
+
+O pens a coffin in a dungeon.
+
+Q uit and save your game.  You won't be able to use this to exit the program in the DOS version, you must 
+reset the computer or close the DOS window to do that.
+
+R eady a weapon, armor, or spell in your inventory for use.
+
+S teal from shop counters or storerooms in castles.  Be prepared to run if you're caught!
+
+T ransact business with merchants or kings.
+
+U nlock jail cells (with the key) or chests in dungeons.
+
+V iew change when in ship from first-person to an overhead view and vice-versa.
+
+X-it a vehicle and travel on foot.
+
+Z tats.  This brings up your statistics menu.
+
+Space - Passes your current turn.
+
+Arrow Keys- Moves your character around.
+
+J,M,P,W - Do nothing in this game.
+
+---
+Weapons
+---
+
+This is a list of the weapons, which get progressively stronger as you go down the list.  Their prices vary 
+depending upon your character's Intelligence.
+
+Dagger
+Mace        
+Axe         
+Rope and Spikes*
+Sword       
+Great Sword 
+Bow and Arrow (Ranged)
+Amulet*
+Wand*
+Staff*
+Triangle*
+Pistol (Ranged)
+Light Sword
+Phazor (Ranged)
+Blaster (Ranged)
+
+*When I tried to attack with these weapons, the game simply gave me a message saying "Attack with (item)?" 
+instead of performing an attack. Do these weapons have another use besides combat?  Because they certainly 
+aren't useful there...
+
+Also note that the Triangle, Pistol, Light Sword, Phazor, and Blaster cannot be bought in shops.  They can 
+only be found via a signpost, or stolen from castles.
+
+---
+Armor
+---
+
+This is a list of the types of armor in the game.  The prices of these items are affected by Intelligence.  
+Listed in order from worst to best.
+
+Leather
+Chain
+Plate
+Vacuum 
+Reflect
+
+Vacuum and Reflect suits will allow you to survive in space, so be sure to get one of those before riding the 
+shuttle.
+
+---
+Items
+---
+
+Gems - You'll need one of each color (Red, Blue, Yellow and Green) to finish the time machine.
+Keys - You need one to free the princesses in the various castles.  They are carried by the castle jesters.
+
+---
+Spells
+---
+Spells can be purchased in town, from the shops.  Their selling price is influenced by Wisdom.  Also note 
+that you must ready the spell you wish to use before you can cast it.
+
+Ladder Down - Creates a ladder leading down one floor in a dungeon
+Ladder Up - Creates a ladder leading up one floor in a dungeon
+Magic Missile - Damages a foe, does more damage depending on your statistics and equipment.
+Open - Opens a coffin without risking setting off any traps.
+Prayer - Calls upon a variety of random effects, which may be beneficial or harmful to you.  Only use this as 
+a last resort!
+Unlock - Unlocks a chest without risking setting off any traps.
+
+Wizard-only spells
+
+Blink - Teleports you randomly upon the current dungeon level
+Create - Makes a wall of magical force in front of you to block off enemies
+Destroy - Destroys a magical wall in front of you, allowing you to pass through.
+Kill - Instantly destroys one enemy.
+
+---
+Vehicles
+---
+
+A list of the game's vehicles.  Selling price is, again, affected by Intelligence.
+
+Vehicle       Traversable Terrain
+
+Foot          Plains, woods
+Horse         Plains, woods
+Cart          Plains, woods
+Raft          Sea
+Frigate       Sea
+Air car       Plains, Sea
+Shuttle       Space*
+Time Machine  None**
+
+Rafts and Frigates can only be bought in coastal towns.
+Frigates and Air Cars can fire their on-board weapons (cannons and lasers respectively) to damage enemies.  
+Each has a range of three squares.
+All space shuttles are equipped with laser beams for zapping enemy spacecraft.
+
+*If you blast into space without a Vacuum or Reflect suit equipped you'll die, so be sure one of those is 
+equipped before you get in your shuttle.
+**Using this craft when you have all four gems will teleport you to the final fight with Mondain.
+
+---
+Spaceships
+---
+
+Ship       Fuel    Shield    Notes
+
+Shuttle    1000    1000      This is the only ship that can safely re-enter Sosaria.  It is not suited for 
+combat.
+Fighter 1  5000    1000      The larger of the two fighters, this one holds more fuel but has weak shields.
+Fighter 2  2500    5000      The smaller of the two fighters, this one has less fuel but much more shielding.
+
+---
+Lands
+---
+
+Ultima 1
+
+The four lands are arranged like this:
+      
+    British   <--->   Feudal Lords
+
+       ^                    ^
+       |                    |
+       |                    |
+       v                    v
+
+ Dark Unknown <---> Danger and Despair
+
+Thus, if you go east of the Lands of British you will end up in the Feudal Lands, and if you go out the top 
+of Lands of British you will 'wrap around' to the Dark Unknown area, etc.
+
+Detailed maps of these four areas can be found at the Ultima 1 Archive at RPGclassics, located here:
+http://www.rpgclassics.com/shrines/pc/ultima1/overworld.shtml
+
+---
+Signposts
+---
+
+The only way to boost most of your stats is to visit signposts.  You can visit each one as many times as you 
+like, but you will not get any points if you visit the same one twice in a row - you will have to travel to 
+another signpost first, then return to the first one to get more points or weapons from it.
+
+Signpost Name           Effect                 Locaton
+
+Pillar of Protection    +10% to Agility        Lands of Lord British
+Tower of Knowledge      +10% to Intelligence   Lands of Lord British
+The Sign Post           +10% to Stamina        Lands of the Dark Unknown 
+Southern Sign Post      +10% to Charisma       Lands of the Dark Unknown 
+Grave of the Lost Soul  +10% to Stamina        Lands of Danger and Despair
+Eastern Sign Post       None                   Lands of Danger and Despair
+Pillar of the Argonauts Get Weakest Weapon*    Lands of the Feudal Lords
+Pillar of Ozymandias    +10% to Wisdom         Lands of the Feudal Lords
+
+*You will get the weakest weapon that is not in your inventory.  So, for example, if you had all the weapons 
+up to the Triangle, you would receive the Pistol if you visited this signpost.
+
+---
+Guide
+---
+
+Ultima I is a pretty non-linear game, so I can't really write a direct walkthrough for it.  However, I can 
+tell you of the quests you'll need to finish in order to complete the game.
+
+You begin near Lord British's castle, with very little money, HP, and Food.  We'll have to do something about 
+that.  Go into town and buy some basic weapons and armor (I believe that you're limited to Daggers, Maces, 
+and Leather at the beginning), some food, and spend whatever you have left on HP from Lord British.  If 
+you've got reasonably high Agility you can try stealing some better weapons and armor from LB's castle (you 
+have a chance of getting Reflect Suits and Blasters), but it is risky because you will have to either outrun 
+or fight the guards if you are caught, neither of which has a high chance of survival at this point in the 
+game.
+
+At this point, you should visit the kings in the area, Lord British and the Lost King.  Each will give you a 
+quest:
+
+Lord British: Find the Grave of the Lost Soul
+Lost King: Kill a Gelatinous Cube
+
+LB's quest requires a ship or an aircar, which you probably don't have the money for at this point.  Don't 
+worry about it now, just find a dungeon and enter.  Fight enemies in there until you gain a decent amount of 
+experience points and gold, then exit.  You will gain HP upon exiting the dungeon depending upon how many 
+enemies you fought.  After fighting enemies for a while, you should have enough money to upgrade your weapons 
+and armor, do so.
+
+Now stop by the magic shop in town and buy a few Ladder Down and Ladder Up spells.  Enter any dungeon and get 
+down to the fourth floor by any means possible (either take the ladders down, or make some with your 
+spells).  Find and kill a Gelatinous Cube (they are square-shaped, and can be somewhat difficult to discern 
+from the halls of the dungeon at first).  Once you've done this, you'll have completed the Lost King's 
+quest.  Return to him for your reward, a Red Gem.
+
+You should be able to afford an aircar or frigate right now; if not, go kill more enemies in the dungeon 
+until you can.  Head over to the land of Danger and Despair (by going either Northwest or Southeast) and find 
+the Grave, which will boost your stamina and complete another quest.  Return to LB's castle for a reward.
+
+From here, you should be able to manage on your own.  Just be sure to stop by any signposts you come across 
+for statistic boosts, stop by towns and castles to buy food, equipment, and HP as necessary, and complete the 
+rest of the quests that the kings give you.
+
+Be sure to stop by the Pillar of the Argonauts frequently (you can simply fly back and forth between it and 
+the nearby Pillar of Ozymandias) until you get the Blaster, the game's best weapon. 
+
+If you need maps of the four continents, they are available at this link:
+http://www.rpgclassics.com/shrines/pc/ultima1/overworld.shtml
+
+---
+
+Here is a list of the rest of the quests.
+
+Feudal Lords
+
+Castle Rondorin - Kill a Carrion Creeper (found on fifth or sixth floor of any dungeon) (Reward: Green Gem)
+Castle Bratara - Find the Southern Signpost
+
+Dark Unknown
+
+Black Dragon - Kill a Lich (found on the seventh or eighth floor of any dungeon) (Reward: Yellow Gem)
+Olympus - Find the Pillar of the Argonauts
+
+Danger and Despair
+
+Shamino - Kill a Balron (found in the ninth or tenth floor of any dungeon) (Reward: nine items from his 
+storeroom*)
+White Dragon - Find the Tower of Knowledge (Reward: Blue Gem)
+
+* You can use "Steal" nine times in the storerooms without a chance of being caught.  After that, you're fair 
+game again.
+
+---
+
+One of the kings will mention that a princess will help a 'space ace' travel time to defeat Mondain.  So, it 
+looks like you'll have to become that space ace.  Buy a shuttle from any town, make sure you have plenty of 
+money to spare (2500 or so would be good) and fly into space.  Park your shuttle at the space station (get 
+the nose of the shuttle right into the opening on one end of the station) and take one of the other two 
+instead; their fuel and shields will last a lot longer than the shuttle's.
+
+Now just Hyperspace to enemy-filled sectors (marked with "H" on the map) and zap as many enemies as you can 
+by targeting them with the cursor and pressing the Fire button.  However, only try to fire or move when 
+you're sure you'll hit, as every time you fire the laser or move it will cost fuel.  You can stop by the 
+space stations (marked on the map with a plus sign) to refuel or change ships as necessary. Docking will cost 
+you 500 coins though, hence why you brought all that extra money along.
+
+Once you've zapped twenty enemies (hitting them can be tricky, it seems to help if you aim for the upper half 
+of the ship), the game will tell you that you've become a Space Ace, so you won't have to fly around and zap 
+things anymore.  Return to Sosaria, switch back to the shuttle, and land back on the planet.
+
+Now that you're a space ace, you have a princess to rescue.  Not any specific princess, mind you, just one of 
+them.  Enter a castle.  Remember the jester who constantly shouts that he has the key?  Kill him and take it, 
+then rush over to the locked cells in the castle and free the princess.  (Sometimes the key won't work 
+though, in which case you'll have to blast your way out of the castle and try again).  When it does work, 
+just make your way to the doorway, princess in tow and most likely through a bunch of guards.  She'll tell 
+you about the time machine's whereabouts; it is near one of the signposts.
+
+If you haven't done so already, get the Blaster (either by stealing or via the Argonauts signpost) and a 
+Reflect Suit, and sell all of your extra weapons and armor for cash.  Spend all the money you have on Hit 
+Points until you have at least 7000.  Once that's done, and provided you have all four of the gems, head on 
+over to the time machine and start it up.
+
+You should now be in the distant past, where Mondain is busy making the Gem of Immortality.  That's certainly 
+not good, so zap him with your blaster until he turns into a bat, then just chase after him and keep blasting 
+him whenever he gets in range.  Once you get the message "is he dead?" walk up to the gem and destroy it with 
+the Attack command.  This will cost you a lot of HP, but you should win the game immediately afterward.  If 
+you don't, walk up to Mondain and zap him some more until he finally dies.
+
+---
+Hints and tidbits
+---
+
+-Areas marked with a diamond on the space map contain a sun (though this has no practical use), and empty 
+areas are marked with three dots.
+
+-You can steal weapons, armor and food from the castles (up to and including the Blaster and Reflect Suit).  
+This is risky however, as you'll have to avoid guards if you are caught.  But you can potentially get the 
+best gear in the game at the very beginning, making your travels a lot easier.
+
+-The 'kill the monsters' quests can be difficult, as there are very strong monsters on the lower levels of 
+each dungeon and you'll have to fight through a lot of them just to get to the floor you need to go to.  You 
+can, however, make this easier by bringing plenty of Ladder Up/Down spells.  Just skip straight to the level 
+you need to reach with Ladder Down, kill the baddie, and then return to the surface with Ladder Up.
+
+---
+Closing
+---
+
+Thanks to the help file on the Ultima Collection CD, Plaid Dragon's walkthrough, and RPGclassics.
+
+Questions, comments and corrections can be sent to spoonicusAN71SP4M@lardpirates.com, without the AN71SP4M.

@@ -1,0 +1,16 @@
+Cinetic Blow
+
+Attack in a direction and then the opposite one
+
+Enemy evasion is reduced to a half
+Damage is increased by a half
+
+
+ #########   #########   #########   #########  
+ #.......#   #.......#   #.......#   #.......#
+ #.......#   #.......#   #.......#   #.......#
+ #..m@m..#   #..m@m..#   #..%@m..#   #..%@%..#
+ #.......#   #.......#   #.......#   #.......#
+ #########   #########   #########   #########  
+    Attack Right           Cinetic attack right! 
+              Cinetic attack left!

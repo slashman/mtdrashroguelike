@@ -1,0 +1,3 @@
+To run on linux delete the file jcurses.dll on the lib folder.
+
+Tested on official Sun JRE 1.4.2+

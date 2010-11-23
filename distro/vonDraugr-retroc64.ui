@@ -1,0 +1,66 @@
+# DrashRL 0.32 UI Configuration File
+# Slash C64 Retro UI 32x32
+
+TILESET = c64drashtileset.png
+TILESET_DARK = c64drashtilesetdark.png
+TILESIZE = 32
+
+SPRITES_UI_GADGETS = gfx/drashinterface.gif
+GADGETSIZE = 36
+
+
+PC_POS_X = 7
+PC_POS_Y = 7
+XRANGE = 7
+YRANGE = 7
+UPLEFTBORDER = 40
+
+# Message Box 
+FNT_MESSAGEBOX = res/Commodore Rounded v1-1.ttf
+FNT_MESSAGEBOX_SIZE = 16
+MSGBOX_BOUNDS = 582,295,207,281
+COLOR_MSGBOX_ACTIVE = 124,115,214
+COLOR_MSGBOX_INACTIVE = 51,55,100
+MSGBOX_BGROUND = 0,0,0
+POS_LEVELDESC_X = 178
+POS_LEVELDESC_Y = 570
+
+IMG_STATUSSCR_BGROUND = gfx/c64bground.png
+WINDOW_WIDTH = 800
+WINDOW_HEIGHT = 600
+
+
+IMG_ICON = gfx/drashinterface.gif
+
+COLOR_REDPOOL_MINIMAP = 255,0,0
+COLOR_REDFOUNTAIN_MINIMAP = 128,0,0
+COLOR_YELLOWPOOL_MINIMAP = 255,255,0
+COLOR_YELLOWFOUNTAIN_MINIMAP = 128,128,0
+COLOR_INVENTORY_BACKGROUND = 0,0,0,250
+COLOR_INVENTORY_BORDER_IN = 160,160,160
+COLOR_INVENTORY_BORDER_OUT = 80,80,255
+
+COLOR_BOLD = 124,115,214
+
+FNT_TITLE = res/Commodore Rounded v1-1.ttf
+IMG_TITLE = gfx/c64drashtitle.png
+IMG_PROLOGUE = gfx/c64frame.png
+IMG_RESUME = gfx/c64frame.png
+IMG_ENDGAME = gfx/c64frame.png
+IMG_HISCORES = gfx/c64frame.png
+IMG_HELP = gfx/c64frame.png
+IMG_SAVED = gfx/c64frame.png
+IMG_LEVEL_UP = gfx/c64frame.png
+IMG_FRAME = gfx/c64frame.png
+
+FNT_TITLE = res/Commodore Rounded v1-1.ttf
+FNT_TITLE_SIZE = 24
+
+FNT_TEXT = res/Commodore Rounded v1-1.ttf
+FNT_TEXT_SIZE = 15
+
+FNT_MONO = res/Commodore Rounded v1-1.ttf
+FNT_MONO_SIZE = 15
+
+SFXSET = gfx/c64drashsfx.png
+SFXSET2 = gfx/tempSlashes.gif

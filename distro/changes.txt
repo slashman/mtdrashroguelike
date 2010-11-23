@@ -1,0 +1,237 @@
+Version 0.32, 12/02/2007
+------------------------
+ITDs
+56	Add character dump without dying
+78	Make Chimera resistant to spells (sleep, paralyse) and reduce the damage taken
+79	Make artifacts have a chance of not appearing after being selected by the factory
+80	Complement the description of combat maneuvers
+82	Allow UI customization
+83	Dragon UI
+
+
+RFEs
+64	Adral	Disable archers from shooting through enemies
+74	Adral	Make potions regain a given percentage of your health/mana
+75	Blade	Balance difficulty on the first levels
+76	Blade	Allow "Esc" key in gfx mode to undo spell cast
+77	Blade	Make items not be spawned on lava
+78	Blade+Valkeera	Make monsters get hurt from lava. Except bats, orbs and phantoms (they fly/float), balrons, liches and garrintrots.
+79	Valkeera	Add to the description of Charge requirement on tactic
+80	Valkeera	Make bats, orbs and phantoms float over water squares.
+82	Valkeera	Add new combat maneuver - Knockback: advanced, allows you to push smaller enemies (excl. minotaurs, ettins, balrons, liches, phantoms, garrintrots and chimera) back one space.
+84	Valkeera	Make Corner work against summoned barriers
+86	Valkeera	Disable archers from shooting through summoned barriers
+87	Valkeera	Make dark knights quicker
+88	Valkeera	Add Magical scrolls
+89	Valkeera	Add Magical rings
+90	Valkeera	Add Shields: Increase defense and can be damaged like armor.
+93	Valkeera	Increase effect of protection
+94	Valkeera	Increase duration of torches
+
+BRs
+45	Blade	Interrupted attempt to aquire write lock. Threading issue on access to messagebox
+47	Blade	Bonus for equiped items isn't shown in the char screen on console mode
+48	Blade	Powder Keg can be used infinite times
+49	Blade	Monsters that are sleeping don't awake if you are firing spells at them.
+50	Adral	Typo: stance, no instance
+52	Valkeera	Dwarfaxe has no graphic effect
+53	Valkeera	Typos: paralyzed is written with "y", brave challenger gains a chance for enhancement
+54	Valkeera	It is possible to materialize on top of a monster when you enter a new level. 
+55	Wonderllama	Crash on savegame load "Programming Asserion Failed:Couldn't find the appearance AVATAR_F."
+
+Version 0.31, 30/01/2007
+------------------------
+ITDs
+51	Reduce archer stats
+53	Enhance charge Bonus
+54	Add Brave Tactic
+55	Enable charge only when brave
+57	Fix Missile effects arent being shown on the when shoots from out of LOS
+58	Fix Missile effects are being painted outside the viewport
+59	Reduce viper stats
+61	Fix the righteous messages on prayer
+62	Create 4 for each stat advancement and reduce stats
+63	Reduce the prob of gremlin summoning by garrintroots
+64	Review the bonus applied on advancement to use the base stats
+65	Add new weapons
+66	Add level to death by poison or escape
+71	Add half-slash maneuver
+72	Add stun maneuver
+73	Add powder kegs. Items that have a small delay and then explode, destroying walls
+74	Add vault: Walled feature
+75	Change the combat maneuvers advancements schema
+76	Add level darkness
+77	Add CGA tileset
+
+RFEs
+60	Adral	Change the prayer system to use monster kills
+61	Adral	Make the player be spawned outside of level features
+66	Valkeera	Use full words instead of abbreviation for status
+68	Valkeera	Add more variants of simple weapons
+69	Valkeera	Change the message when game is quit
+70	Valkeera	Remake the traits system so that skills will be tied to stats.
+71	Valkeera	Add skill for Temp/Disc
+72	Valkeera	Add skill for Disc/Soul
+73	Valkeera	Add skill for Temp/Soul
+
+BRs
+19	Adral	NullPointerException when dropping an armor, 
+36	Adral	Wrong mana cost for prayer
+37	Adral	Sometimes portals aren't shown
+38	Blade	NullPointerException when dropping an armor, 
+40	Valkeera	Level 16 without exit
+42	Valkeera	The midi track for L5 is bad
+43	Valkeera	No music for L18 at all. 
+44	Valkeera	Cinetic blow maneuvre has the same description as Charge
+
+
+Version 0.3, 24/01/2007
+-----------------------
+BRs
+14	Adral	Charge in a direction and attacking the opposite way when Ch is on qualifies as a charge.
+18	Adral	Animation of attacks in the console mode fade away too soon.
+32	Adral	Floating orbs, necromancers and archers do not attack from far away
+33	Valkeera	All monsters walk on water.
+34	Valkeera	Whenever magic missile and cast and hit, the evade message appears
+
+RFEs
+20	Adral	Add a manual.
+56	Adral	Add a reward at the end of the Savage Stage
+58	Adral	Charge should be kept for the 3 "front" directions
+59	Adral	Revamp the Prayer system. 
+
+ITDs
+26	Tri- Lithiums
+28	Spell Mittar - Magic missile
+29	Spell Fulgar - Magic missile - Fire
+30	Spell Mentar - Magic missile - mind blast
+32	Change time stop spell for "Altair" 
+36	Spell Iceball - magic missile
+42	[Spoily]
+45	Add low hitpoint warning
+46	[Spoily]
+47	Change mirage so you can move forward
+48	[Spoily]
+49	[Spoily]
+50	Make other potions
+51	Remake the pick windows on the GFX userinterface
+
+
+Version 0.3pt3, 18/01/2007
+--------------------------
+RFEs
+
+29 Adral Add more activities to level exploration to increase fun
+30 Adral Add more useful items
+31 Adral Add more challenging fights
+44 Adral The map should remember fountains and anvils too.
+46 Adral Do weapons that increase your Soul potential/maximum mana when wielded instead of increasing attack
+47 Adral Include description for Magic Amulet, the Power Wand and Power Staff do.
+48 Adral Fire Barrage is just underpowered
+49 Adral Higher tier spells have an humongous requirement of mana to cast.
+50 Adral Add some more attack spells on circles earlier.
+51 Adral Put recover on the second circle
+52 Adral Sleep costs a lot
+53 Adral Spiff up the barriers
+54 Adral Put the traits you get at level-up on the memorial
+55 Adral Make the memorial remember the date and tiem of the day
+
+BRs
+15 Adral I sometimes evaded into a rock '*'
+16 Adral Fountains and potions use different colour schemes
+17 Adral Game crashes when attacking a rock
+20 Adral Invalid prize feature on rock destruction
+21 Adral Magic missile not only pierces through targets, also pierces through walls
+24 Icey SFX_THUNDER_FLASH not registered
+26 Icey Invalid item ID COIN, prize for killin a carrion creeper or spider
+27 Icey Messages after the look command are not separated. (clear the messages after look.)
+29 Slash NullPointer on destroying rock.
+30 Adral Trapped. Inside Garrintroot Arena
+
+
+ITDs
+6 Spell Time Stop
+7 Add Hit chance to spells and weapons
+8 Spell X-Ray
+9 Spell Invoke
+10 Spell Summon
+11 Spell Charm
+12 Spell Poison
+14 Item Torches > Use, increase sight
+17 [Spoily]
+18 Item Boots> Accesory paralysis
+19 Item Cloaks > Accesory, increase evasion
+20 Item Helms> Accesory, increase sight
+21 Item Gems > Cast view
+22 Item Ankh > Recover health
+27 Strange Coins> stop time
+31 Spell Noxum - similar to liughtginh storm
+33 Nameless Spell - Vast destruction on nearby foes
+34 Spell Alcort - Cure poison
+35 Spell Vieda - Magic mapping
+37 Spell Protection
+38 Spell Quickness
+39 Add monsters which use the poison effect or traps
+40 Remake sleep to target an enemy, and not stop time
+43 Add monsters which use the paralize effect or traps
+44 Add graphics for the new items, and set the char appearances
+
+
+Version 0.3Pt2, 04/01/2007
+--------------------------
+ITDs
+1 Add speed bonus when charging and reduce distance cost
+2 Add Ready command for secondary slot
+3 Don't stack armor, integrity may differ
+5 VGA tileset
+
+RFEs
+16 Adral Set potions appearance to '!'
+18 Adral Change tree appearances from 't'
+19 Adral Add some help on how to use combat skills.
+22 Adral Make a command to examine the level map.
+24 Adral Make enemies drop useful things on dying randomly, perhaps based on monster type/level.
+26 Adral Evasion % should be showed in the HUD at gfx-mode.
+28 Adral Reduce map size to a half keeping the same number of monsters and things
+32 Adral Do not regenerate mana or health, just evade points
+33 Adral Add inventory window
+35 Adral The previous weapons should not automatically go to the secondary slot.
+37 Meldokios Add sounds to combat
+39 com2kid Make the method of advancement clearer from the beginning.
+40 com2kid Add info on how much damage is being done for combat and magic
+41 com2kid Allow look mode to be exited with esc
+
+BR
+5 Adral The in-game help has lots of letters missing
+9 Slash crl.l.a.v. Not serializable, crash on save
+10 com2kid Glitch on the buttons when using the mouse to hit ok
+12 com2kid Arrow effect doesnt stop on hitting the player
+
+Version 0.3pt1 26/12/2006
+-------------------------
+
+RFEs
+2	Slash	Add prizes on level completion
+3	Slash	Add scoring system and special moves
+4	Slash	Add ultima 3 like tiles
+8	Slash	Add Leveling system
+12	Slash	Add potions
+14	Slash	Add magic
+
+BRs
+1	Slash	Evade goes negative
+2	Slash	Score isnt working
+3	Slash	Avatar is being shown on autoid
+4	Adral	Evade into a monster-occupied tile. 
+6	Adral	Missile effects are shown offscreen
+7	Adral	Savage Stage must not read "Savage Stage, LV8", but "Savage Stage"
+8	Adral	NullPointerException when unequipping a weapon. ConsoleUI:337
+11	com2kid	When in look mode, it is hard to tell look mode was exited.
+
+Version 0.2 10/10/2006
+----------------------
+1	Slash	Add first level with your cell,TV screens and a teleporter
+6	Slash	Add Line of Sight
+7	Slash	Add More Monsters
+9	Slash	Add items on level generation
+13	Slash	Set initial weapon

@@ -1,0 +1,135 @@
+Level 0 Spells
+(Done) Magic Missile:  HURTIS FUEGO! 2
+(Done) Prayer: EX LORUM 5
+(Done) Recover: LORUM MATERIA 15
+
+L1 Spells *
+(Done) Blink: HURTIS MATERIA 10
+(Done) Sleep: HYPOS LORUM 5
+ManaMax +5
+
+L2 Spells *
+(Done) Light LORUM 10
+(Done) Create Barrier: IN KALAM 5
+(Done) Destroy Barrier: XAM KALAM 5
+ManaMax +5
+
+L3 Spells *
+(Done) Fire Barrage: FUEGO RELI 5
+(Done) Blast wall: XAM MATERIA 15
+ManaMax +5
+
+L4 Spells **
+(Done) Lighting LORUM FLAMI 5
+(Done) Energy Armor MATERIA SANCTO 25
+ManaMax +10
+
+L5 Spells **
+(Done) Explosion FUEGO GRAVITA 10
+(Done) Invisibility CONCILI LOR 10
+ManaMax +10
+
+L6 Spells ***
+(Done) Great Light LORUM MAXIMA 15
+(Done) LIghting Storm LORUM XAM FUEGO 15
+ManaMax +10
+
+L7 Spells ***
+(Done) Tremor XAM MATERIA EX MAXIMA 30
+(Done) Kill XAM CORPUS LORUM 30
+ManaMax +20
+
+L8 Spells ***
+(Done) Flame Wind FUEGO HURACANADO EX LORUM! 40
+(Done) Time Stop 30
+Armageddon DESTRUXION ULTIMA MATERIA GRAVITA! 200
+ManaMax +20
+
+L1 Combat art
+(Done) Charge
+
+L1 Combat art 
+(Done) Corner
+
+L2 Combat art Requires Charge and Corner
+(Done) Drashback - Combat Frenzy after 3 consecutive hits
+
+L2 Combat arts ** Requires Charge
+(Done) Pierce!! 
+
+L3 Combat art ** Requires Corner
+(Done) Mirage 
+ Increases Evasion by 50%
+ Activated by moving in opposite directions
+
+L3 Requires Drashbrack
+(Done) Power Attack - Waiting a turn doubles damage on next turn
+
+L4 Combat Art *** Requires Pierce and Assault
+(Done) Counter
+
+L4 Combat Art *** Requires Pierce and Assault
+(Done) Cinetic Bash - Double damage when attacks in opposite direction
+
+L5 Combat Art Requires Counter or Cinetic Bash
+(Done) Slash: Slices through enemies
+
+
+------
+Temper *
+Attack + 1, IntegrityMax +5, Evade Max +5
+
+Temper **
+Attack + 2, IntegrityMax +10, Evade Max +10
+
+Temper ***
+Attack + 3, IntegrityMax +20, Evade Max +20
+
+--
+Discipline *
+AttackCost - 5, WalkCost -5, Evasion + 5%
+
+Discipline **
+AttackCost - 10, WalkCost -10, Evasion + 5%
+
+Discipline ***
+AttackCost - 10, WalkCost -10, Evasion + 5%
+--
+
+Soul *
+CastCost -10, ManaMax +10
+
+Soul *
+CastCost -10, ManaMax +20
+
+Soul ***
+CastCost -10, ManaMax +40
+
+
+ *
+x*
+x*
+x*
+x
+x*
+x
+x*
+x
+x*
+x
+x
+x*
+x
+x
+x*
+x
+x
+x*
+x
+x
+x*
+x
+x
+x*
+x*
+x

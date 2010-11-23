@@ -1,0 +1,15 @@
+Wall Corner
+
+Attack an enemy with a solid object behind him
+
+Enemy evasion is reduced to a half
+Damage is doubled
+
+
+ #########   #########
+ #.......#   #.......#
+ #.#.....#   #.#.....#
+ #.#m@...#   #.#%@...#
+ #.......#   #.......#
+ #########   #########
+  Corner Attack left!  

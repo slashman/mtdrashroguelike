@@ -1,0 +1,12 @@
+Pierce
+
+Attack with a long weapon in a direction to reach more than one enemy
+
+ #########   ######### 
+ #.......#   #.......# 
+ #.......#   #.......# 
+ #.@mm...#   #.@%%...# 
+ #.......#   #.......# 
+ #########   ######### 
+        
+         Die!    

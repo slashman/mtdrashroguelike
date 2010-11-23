@@ -1,0 +1,21 @@
+Combat Charge
+
+Run in a straight line for two steps and then jump into an enemy.
+
+Enemy evasion is reduced to a third
+Evasion breaking is double
+Damage is tripled
+Walking cost is reduced by 10
+
+ #########   #########   #########   #########  
+ #.......#   #.......#   #.......#   #.......#
+ #.......#   #.......#   #.......#   #.......#
+ #.@..m..#   #..@.m..#   #...@m..#   #....@..#
+ #.......#   #.......#   #.......#   #.......#
+ #########   #########   #########   #########  
+        
+         Right       Right       CHARGE!
+
+To perform a chance you need to engage into Brave tactics.
+When charging you will see the 'Charge' indicator on the status line. 
+You can charge into any of the three positions ahead.
